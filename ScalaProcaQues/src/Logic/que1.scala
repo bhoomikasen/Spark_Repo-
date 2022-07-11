@@ -7,7 +7,7 @@ object que1 extends App {
 for(i<-0 to s1.length-1){
   if(s1(i)=='h'){
     s3=s1.replace('h','w')
-    //println(s3)
+    println(s3)
   }
 
 }
