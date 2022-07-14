@@ -11,7 +11,7 @@ object Que3 {
         }
       }
       if(count>1){
-      println(s1(i) +" apearred "+count+" times")}
+      println(s1(i) +" appeared "+count+" times")}
     }
   }
 
